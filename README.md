@@ -1,3 +1,3 @@
 # Tsak1
-Flight_price analysis
+Flight_price analysis via Supervised learning algorithm
 
